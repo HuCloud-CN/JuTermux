@@ -1,19 +1,19 @@
 #!/usr/bin/env sh
 
 #
-# Copyright 2015 the original author or authors.
+# 版权2024原作者或作者。
 #
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
+# 根据Apache许可证2.0版许可(“许可证”)；
+# 除非符合许可证的规定，否则您不得使用本文件。
+# 您可以从以下网址获得许可证的副本
 #
 #      https://www.apache.org/licenses/LICENSE-2.0
 #
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
+# 除非适用法律要求或书面同意，软件
+# 在许可证下分发是在“原样”的基础上分发的，
+# 没有任何明示或暗示的保证或条件。
+# 有关管理权限和的特定语言，请参见许可证
+# 许可证下的限制。
 #
 
 ##############################################################################
