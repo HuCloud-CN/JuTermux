@@ -1,15 +1,7 @@
-# Collection quantity
-<div align="center">
+## Star History
 
-<a href="https://star-history.com/#HuCloud-CN/JuTermux&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=HuCloud-CN/JuTermux&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=HuCloud-CN/JuTermux&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=HuCloud-CN/JuTermux&type=Date" />
-  </picture>
-</a>
+[![Star History Chart](https://api.star-history.com/svg?repos=HuCloud-CN/JuTermux&type=Date)](https://star-history.com/#HuCloud-CN/JuTermux&Date)
 
-</div>
 # Termux 应用程序
 
 [![Build status](https://github.com/termux/termux-app/workflows/Build/badge.svg)](https://github.com/termux/termux-app/actions)
